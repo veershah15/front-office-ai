@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1 — November 3, 2026
+
+- Added the full product-owner brief to the repository.
+- Documented public GitHub access, push verification, and the intentionally local API key and GM notes.
+
 ## 0.1.0 — November 3, 2026
 
 - Created the local React and Express application.

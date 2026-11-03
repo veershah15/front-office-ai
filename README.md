@@ -2,6 +2,14 @@
 
 A working first stage of a sourced NBA general manager workspace. It has a 30-team directory, Dallas and Denver research pilots, searchable pilot rosters, saved GM notes, and an optional AI GM. The app clearly distinguishes NBA facts, editorial projections, user observations, and missing information.
 
+The full owner-supplied vision is in [docs/PRODUCT_BRIEF.md](docs/PRODUCT_BRIEF.md). [ROADMAP.md](ROADMAP.md) tracks the staged build.
+
+## GitHub access and updates
+
+This is a public repository at [veershah15/front-office-ai](https://github.com/veershah15/front-office-ai). Anyone with the link, including Daniel and Builders, can view the code, documentation, and commit history without a GitHub login. Completed iterations are pushed to the `main` branch; a local commit alone is not visible to them. The weekly maintenance run checks the build and must verify the push before reporting an iteration complete.
+
+The `.env` API key and local `data/notes.json` GM observations are excluded from GitHub. They stay on Veer's laptop. The repository contains the application source, not a hosted live app.
+
 ## Run locally
 
 1. Install Node.js 24 or newer.
